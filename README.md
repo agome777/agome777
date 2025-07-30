@@ -60,7 +60,8 @@ Tools like IntelliJ, VS Code, Arduino IDE, Fusion 360, and GitHub have become my
 ## 📬 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amyjirethgomez/)
-- 📧 Email: amyjirethgomez@gmail.com
+- 📧 Email: amygr006@gmail.com
+
 
 ---
 
