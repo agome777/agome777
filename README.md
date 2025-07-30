@@ -12,8 +12,12 @@
 - 🤖 I’m diving deep into **Machine Learning**, **Artificial Intelligence**, and **Software Engineering**.
 - 🌍 I aim to work on **technology-driven sustainability projects** and am always open to collaboration!
 - 🧠 I love learning and sharing ideas that blend **tech, impact, and creativity**.
-- 😄 Pronouns: she/her
-- 🌀 Fun fact: I’m a massive fan of the **Sonic the Hedgehog** franchise! 🦔💙
+
+I’m an aspiring software engineer passionate about harnessing technology to solve real-world problems, whether that’s improving legacy systems for national defense or designing communication tools for future space missions. Currently, I’m interning at KBR, where I contribute to a Department of Defense project focused on integrating legacy protocols and optimizing data capture through MDF4 logging.
+
+My journey has taken me through immersive programs with Google, NASA’s L’SPACE NPWEE, and Break Through Tech, where I’ve deepened my skills in Java, Python, embedded systems, full-stack development, robotics, and machine learning techniques like k-NN, decision trees, and deep learning. I’ve built data pipelines, explored protocol parsing, and tackled challenges in both terrestrial and lunar tech environments.
+
+Tools like IntelliJ, VS Code, Arduino IDE, Fusion 360, and GitHub have become my creative playgrounds. I’m eager to join teams at the intersection of software, sustainability, defense, and space innovation.
 
 ---
 
@@ -45,7 +49,7 @@
 
 ## 🎨 Hobbies & Interests
 
-- 🎮 Gaming (especially Sonic!)
+- 🎮 Gaming
 - 🌿 Sustainability & Environmental Innovation
 - 🎻 Music: Violin & Piano
 - 🧠 Science Communication & Tech for Good
